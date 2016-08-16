@@ -1,0 +1,848 @@
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/etapasOrigOrd.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 
+folder/filename: xmls/temp/
+action: 
+++++++++++++++FIM
+exists=false
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/etapasOrigOrd.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/gelsonrei@gmail.com_Masculino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 
+folder/filename: xmls/temp/
+action: 
+++++++++++++++FIM
+exists=false
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/etapasOrigOrd.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/etapasOrigOrd.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/pele@bontempo.com.br_Feminino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/etapasOrigOrd.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/daniela@bontempo.com.br_Feminino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/duda@bontempo.com.br_Feminino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/duda@bontempo.com.br_Feminino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/duda@bontempo.com.br_Feminino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/duda@bontempo.com.br_Feminino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/duda@bontempo.com.br_Feminino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/duda@bontempo.com.br_Feminino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/duda@bontempo.com.br_Feminino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/etapasOrigOrd.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/config.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/gelsonrei@gmail.com_Masculino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/gelsonrei@gmail.com_Masculino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/gelsonrei@gmail.com_Masculino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/pics.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/MiniGamePrep.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/gelsonrei@gmail.com_Masculino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/temp/gelsonrei@gmail.com_Masculino_temp.xml
+action: temp
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/Dialogos.xml
+action: base
+++++++++++++++FIM
+
+
+++++++++++++++INICIO
+
+hash: 075d2af59d33335f6a0912f79bbf978b
+folder/filename: xmls/base/ProjetoPerfil.xml
+action: base
+++++++++++++++FIM

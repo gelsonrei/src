@@ -1,0 +1,389 @@
+
+
+<etapas>
+  <game player="projetos.caxias@bontempo.com.br" />
+  inicio = 10:20 fim:11:51
+  pontos: 14.51
+
+  Chmada de Ferramentas:
+  <ferramentas>
+    <ferramenta date="20130703_101943" nome="ChamaGerente" etapa="0" tela="0" pergunta="0"/>
+    <ferramenta date="20130703_104438" nome="BlocoNotas" etapa="8" tela="0" pergunta="0"/>
+    <ferramenta date="20130703_104735" nome="PastaCliente" etapa="8" tela="0" pergunta="0"/>
+    <ferramenta date="20130703_104757" nome="BlocoNotas" etapa="8" tela="0" pergunta="0"/>
+    <ferramenta date="20130703_104932" nome="PastaCliente" etapa="8" tela="0" pergunta="0"/>
+    <ferramenta date="20130703_105138" nome="PastaCliente" etapa="8" tela="0" pergunta="0"/>
+    <ferramenta date="20130703_110034" nome="BlocoNotas" etapa="8" tela="0" pergunta="0"/>
+    <ferramenta date="20130703_110356" nome="BlocoNotas" etapa="8" tela="0" pergunta="0"/>
+    <ferramenta date="20130703_110941" nome="BlocoNotas" etapa="8" tela="0" pergunta="0"/>
+    <ferramenta date="20130703_112416" nome="Conveniencia" etapa="12" tela="31" pergunta="0"/>
+  </ferramentas>
+  
+   Pasta do cliente
+  <pastaCliClicados>
+    <item idx="1"/>  endere�o
+    <item idx="20"/> Accompanhado por especificador
+    <item idx="21"/> Nome do especificador
+    <item idx="25"/> email especificador
+    <item idx="26"/> edificio
+    <item idx="28"/> Previsao
+    <item idx="27"/> nome contrutora
+    <item idx="30"/> tem feito outros or�amentos
+
+
+    Etapas:
+
+  <etapa id="1" desc="Profissional de vendas chegando à loja" peso="1" pontos="0.3333333333333333" aux="0" note="" textoConceito="O momento de chegada na Loja é fundamental para a organização de todo o seu dia de trabalho, além de ser um momento de interação com os colegas.">
+    <tela time="94" date="20130703_102025" lk="" estilo="QUIZ" id="0" pt="0.3333333333333333" desc="" som="Sounds/RP-TheChance.mp3" video="Videos/01_ProfissionalChegandoLoja/01_ProfissionalChegandoLoja_" vdsufixo="PV" imgMask="" ajuda="Atitude vencedora é a palavra chave neste momento do dia! Tenha empatia sem perder o foco." ajudaSom="">
+      <pergunta nivel="0" id="0" multi="3" ordenado="0" BT="0" BE="0" SisMod="0" desc="Ao chegar à loja, no início de uma jornada de trabalho, quais atitudes a seguir são habituais para você?" okClk="1" maxOrd="3">
+        <opcao lk="" nivel="2" valor="-5" prioridade="0" ordem="X"  texto="Dirigir-se à copa para tomar um café aumentando sua disposição para o dia"/>
+        <opcao lk="" nivel="4" valor="10" prioridade="0" ordem="X"  texto="Conversar com colegas assunto de trabalho"/>
+        <opcao lk="" nivel="6" valor="5" prioridade="0" ordem="X" texto="Conversar com colegas sobre assuntos gerais"/>
+       </pergunta>
+    </tela>
+  </etapa>
+  
+  <etapa id="2" desc="Preparando-se para o dia de trabalho" peso="1" pontos="0.4296296296296297" aux="0" note="" textoConceito="Saber priorizar e harmonizar suas atividades com os objetivos e metas da Franquia é essencial ao seu desenvolvimento profissional.">
+    <tela time="357" date="20130703_102159" lk="" estilo="QUIZ" id="0" pt="0.4296296296296297" desc="" som="Sounds/FO-TheMaster.mp3" video="Videos/02_PreparacaoParaDia/02_PreparacaoParaDia_" vdsufixo="PV" imgMask="" ajuda="Administrar seu tempo é um dos segredos do sucesso. Sorte é estar preparado para aproveitar a oportunidade quando ela aparecer." ajudaSom="">
+      <pergunta nivel="0" id="0" multi="-9" ordenado="1" BT="0" BE="0" SisMod="0" desc="Na lista a seguir marque em ordem de prioridade somente as tarefas que você realiza no início do expediente. " okClk="1" maxOrd="9">
+        <opcao lk=""  valor="-1" prioridade="2" ordem=""  texto="Verificar e-mails pessoais, evitando fazê-lo durante o dia e atrapalhar a produção"/>
+        <opcao lk="" valor="10" prioridade="1" ordem="2"  texto="Verificar agenda do dia no SisModular"/>
+        <opcao lk=""  valor="-1" prioridade="2" ordem="9"" texto="Verificar redes sociais, para que você, colegas e clientes estejam sempre atualizados"/>
+        <opcao lk="" valor="10" prioridade="3" ordem="1"  texto="Verificar e-mails profissionais"/>
+        <opcao lk="" valor="10" prioridade="8" ordem="" Btexto="Verificar e enviar carta parabéns e cartões de aniversário para clientes e especificadores"/>
+        <opcao lk="" valor="10" prioridade="4" ordem="4"  texto="Trabalhar em projetos pendentes importantes"/>
+        <opcao lk="" valor="10" prioridade="5" ordem="5"  texto="Contatar clientes em carteira"/>
+        <opcao lk="" valor="10" prioridade="7" ordem="6"  texto="Aguardar chegada de clientes"/>
+        <opcao lk="" valor="10" prioridade="9" ordem="7"  texto="Prospectar novos clientes e especificadores"/>
+        <opcao lk="" valor="10" prioridade="6" ordem="3"  texto="Acompanhar cronograma de montagem de seus clientes"/>
+        <opcao lk="" valor="10" prioridade="2" ordem="8"  texto="Atualizar carteira de clientes "/>
+      </pergunta>
+    </tela>
+  </etapa>
+
+
+
+  <etapa id="4" desc="Abordando o cliente" peso="2" pontos="2" aux="0" note="" textoConceito="Cuidado! A forma de abordar o cliente é decisiva para a continuidade da interação e lembre-se: se você não pudesse prestar ajuda não estaria nesta atividade profissional.">
+    <tela time="33" date="20130703_102839" lk="" estilo="QUIZ" id="0" pt="1" desc="" som="Sounds/FO-TheMightyKingdom.mp3" video="Videos/04_Abordagem/04_Abordagem_" vdsufixo="CLI_PV" imgMask="" ajuda="Lembre-se: você tem apenas uma chance para causar uma primeira boa impressão. Sorriso e simpatia abrem excelentes relacionamentos. Além de profissional você é uma pessoa, assim como o cliente. Lembre-se, isto pode fazer a diferença. Seus gestos são percebidos, as vezes mais do que sua fala." ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Como você realiza a abordagem com o cliente (quebra-gelo)?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="2" valor="10" prioridade="2" ordem="X" texto="Se apresentando, falando seu nome, ouvindo o nome do cliente e Interagindo para descobrir dados pessoais"/>
+        </pergunta>
+    </tela>
+  </etapa>
+
+  <etapa id="5" desc="Pré-atendimento" peso="0" pontos="0" aux="1" note="" textoConceito="">
+    <tela time="40" date="20130703_102912" lk="" estilo="QUIZ" id="0" pt="1" desc="" som="Sounds/FO-HighTension.mp3" video="Videos/05_Pre-Atendimento/05_Pre-Atendimento_" vdsufixo="CLI_PV" imgMask="" ajuda="Neste momento acontece a base para uma sólida negociação." ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="1" BT="0" BE="0" SisMod="0" desc="Ao recepcionar um novo cliente, após as apresentações, indique qual dos procedimentos você realiza primeiro." okClk="1" maxOrd="1">
+        <opcao lk="6" nivel="0" valor="0" prioridade="1" ordem="1" texto="Mostrar a loja e os ambientes do show room"/>
+        <opcao lk="7" nivel="1" valor="0" prioridade="1" ordem="" texto="Convida cliente para sentar e iniciar atendimento"/>
+      </pergunta>
+    </tela>
+ </etapa>
+
+  <etapa id="6" desc="Mostrando a Loja" peso="2" pontos="2" aux="0" note="" textoConceito="Se você prestar atenção ao Briefing Técnico terá facilidade em apresentar os produtos ao cliente.">
+    <tela time="77" date="20130703_102952" lk="" estilo="QUIZ" id="0" pt="1" desc="" som="Sounds/JZ-BeBop25.mp3" video="Videos/08_MostraLoja/08_MostraLoja_" vdsufixo="CLI_PV" imgMask="" ajuda="Você já está cansado do show room, mas o cliente está vendo ele pela primeira vez. Faça um show para apresentar a loja, mas não esqueça de convidar o cliente para participar." ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Durante o percurso, na apresentação da loja e ambientes no show room, qual a abordagem seguida por você." okClk="1" maxOrd="1">
+        <opcao lk="" nivel="2" valor="10" prioridade="0" ordem="X"  texto="Apresentar produtos mais direcionados ao perfil e gosto do cliente, deixando para o cliente solicitar por produtos top"/>
+      </pergunta>
+    </tela>
+  </etapa>
+  
+
+  <etapa id="7" desc="Atendendo o cliente" peso="2" pontos="1.3333333333333333" aux="0" note="" textoConceito="O Briefing Técnico e de Estilos são ferramentas que lhe ajudam a tomar as decisões que mais facilmente agradarão ao cliente. É importante organizar as informações à medida em que vão sendo identificadas. Se você anotá-las tardiamente perderá muitas informações importantes.">
+    <tela time="79" date="20130703_103109" lk="" estilo="QUIZ" id="0" pt="0.6666666666666666" desc="" som="Sounds/FO-TheMightyKingdom.mp3" video="Videos/07_Atendimento/07_Atendimento_" vdsufixo="CLI_PV" imgMask="" ajuda="Entenda o que motiva a visita do cliente à loja, como ele vive, trabalha e se relaciona. Isso tudo diz muito para ajudar você a desenvolver as propostas." ajudaSom="">
+      <pergunta nivel="0" id="0" multi="3" ordenado="0" BT="0" BE="0" SisMod="0" desc="Durante o atendimento do cliente em sua mesa de trabalho, marque os procedimentos seguidos por você." okClk="1" maxOrd="3">
+        <opcao lk="" nivel="2" valor="0" prioridade="1" texto="Iniciar coleta de informações do briefing de estilo perguntando diretamente ao cliente"/>
+        <opcao lk="" nivel="3" valor="10" prioridade="1" texto="Iniciar coleta de informações do briefing técnico perguntando diretamente ao cliente"/>
+        <opcao lk="" nivel="5" valor="10" prioridade="1" texto="Fazer anotações no sistema/documento de dados percebidos na conversa para evitar esquecimento"/>
+      </pergunta>
+    </tela>
+  </etapa>
+  
+
+  <etapa id="8" desc="Realizando o briefing" peso="4" pontos="0" aux="0" note="marido cozinha&#xA;crianças lancham com amigos&#xA;espaço para copos&#xA;filha criativa, artística, quarto ambiente de encontro&#xA;coleção de carrinhos&#xA;espelho, puff e espaço para roupas intimas closet" textoConceito="Fique atento às informações que mais lhe subsidiam quanto as rotinas e à relação que a família mantem com cada ambiente. Verifique as perguntas realmente importantes do briefing que você está elaborando.">
+    <tela time="0" date="20130703_103228" lk="" estilo="DIALOGO" id="0" pt="0" desc="briefing" som="Sounds/FO-TheMightyKingdom.mp3" video="Videos/09_briefing/09_Briefing_01_" vdsufixo="CLI_PV" imgMask="" ajuda="Faça perguntas abertas facilitando o aumento de informações. Faça o possível e impossível para ouvir todas as pessoas envolvidas no projeto. Seja um bom ouvinte. Registre tudo o que o cliente destacar." ajudaSom="">
+      <perguntasDLG>
+        <pergunta date="20130703_103459" agente="C" id="1" valor="" desc="A fábrica é aqui mesmo na cidade ou estado?" resp="A fábrica é na serra gaúcha, na cidade de São Marcos, onde nasceram os Stedile, fundadores e proprietários da marca. Lá serão fabricados os seus móveis com  muita tecnologia e carinho."/>
+        <pergunta date="20130703_103616" agente="C" id="2" valor="" desc="Quantos anos atuam neste mercado?" resp="A Bontempo esta há 34 anos atuando no mercado brasileiro com sistema de franquias, com 37 lojas nos principais mercados. Contudo, a tradição da família em móveis passa dos 150 anos, conforme a historia da empresa."/>
+        <pergunta date="20130703_103726" agente="C" id="3" valor="" desc="Qual é a matéria prima utilizada na fabricação?" resp="Nós trabalhamos com três substratos: MDF, MDP e TAMBURATO. Cada matéria tem suas particularidades e por isso precisam ser industrializadas com tecnologia e processos adequadas a cada uma. Por termos um parque fabril moderno em máquinas, equipamentos, processos e pessoas, oferecemos a mesma garantia independente do substrato utilizado."/>
+        <pergunta date="20130703_103844" agente="C" id="5" valor="" desc="O projeto é sem compromisso?" resp="Temos um compromisso muito sério, que é desenvolver ambientes personalizados, customizados e únicos, considerando todas as informações, necessidades e desejos de sua família, isto é para nós um importante compromisso."/>
+        <pergunta date="20130703_104049" agente="C" id="6" valor="" desc="O projeto é muito demorado?" resp="Fique tranquilo, o tempo será o necessário para desenvolver o projeto adequado e personalizado para atender todas as suas necessidades."/>
+        <pergunta date="20130703_104315" agente="C" id="7" valor="" desc="Quais os acabamentos oferecidos pela Bontempo?" resp="Somos uma das raras empresas que oferecem todos os principais acabamentos existentes para móveis, disponibilizamos: Pintura sendo em laca e Lacatto alto brilho, melamínicos lisos e amadeirados, laminados decorativos e lâminas naturais de madeira."/>
+        <pergunta date="20130703_104552" agente="C" id="8" valor="" desc="Seu produto já é entregue montado?" resp="Todas as peças vem em embalagem individual, com código de barras identificando cada parte do ambiente, a montagem e feita com agilidade, responsabilidade e segurança, executada por técnicos exclusivos, treinados nos fornecedores."/>
+        <pergunta date="20130703_104610" agente="PV" id="0" valor="0" desc="Como você(s) conheceu(eram) a Bontempo?" resp="Passamos seguindo a avenida e nos chamou a atenção"/>
+        <pergunta date="20130703_104707" agente="PV" id="3" valor="0" desc="Qual a localização do seu Apto?" resp="Bairo Lindóia, aqui mesmo em São Paulo capital"/>
+        <pergunta date="20130703_104823" agente="PV" id="4" valor="0" desc="Você(s) já reside(m) lá ou é um novo endereço?" resp="Novo endereço e fica pronto no mês tal"/>
+        <pergunta date="20130703_104905" agente="PV" id="1" valor="0" desc="Você(s) tem arquiteto acompanhando o projeto?" resp="Sim, sr. Jacinto Pereira, mas agora quero(emos) ver tudo o que vocês tem, depois ele vem"/>
+        <pergunta date="20130703_105052" agente="PV" id="2" valor="0" desc="Você já viu outras idéias para seus móveis (projeto)?" resp="Temos Apresentação marcada na T dia tal"/>
+        <pergunta date="20130703_105311" agente="C" id="8" valor="" desc="Quais são seus maiores concorrentes no mercado?" resp="A Bontempo apresenta produtos e serviços para atender a o publico, A, AB, B, pessoas exigentes, que buscam segurança, beleza, design, personalização, inovação e customização. Todas as marcas com estas características são concorrentes, mas a nível nacional podemos citar: Ornare, Kitchens, Formaplas e Florense."/>
+        <pergunta date="20130703_105416" agente="C" id="8" valor="" desc="A loja é da Marca, ou fabricante?" resp="A loja é uma franquia da marca que atua em todo o Brasil."/>
+        <pergunta date="20130703_105659" agente="PV" id="13" valor="0"   desc="Você gosta de iluminação interna nos armários da cozinha, principalmente nos de louça? " resp="Vi isso na casa de uma amiga e adorei, quero principalmente no espaço de pratos e copos. "/>
+        <pergunta date="20130703_105804" agente="PV" id="14" valor="0"   desc="O sr Ronaldo é um bom gourmet e convida os amigos para frequentar a cozinha? " resp="Normalmente estamos juntos, mas ai quando têm jogos importantes, ele chama o clube da bolinha e ai rola cueca na cozinha, mas ele é muito caprichoso e organizado. "/>
+        <pergunta date="20130703_105901" agente="PV" id="12" valor="0"   desc="Refeições rápidas são realizadas na cozinha? " resp="Isto é um habito principalmente das crianças e muitas vezes trazem amiguinhos para o lanche. "/>
+        <pergunta date="20130703_105945" agente="PV" id="9"  valor="0"   desc="O que você gostaria de manter no seu novo projeto da cozinha que você tem no atual? " resp="No atual projeto tenho um ótimo espaço para copos que eu gostaria de levar para a nova cozinha. "/>
+        <pergunta date="20130703_110152" agente="PV" id="7"  valor="0"   desc="Gostaria de local especifico para despensa e mantimentos? " resp="É imprescindível, pois gostamos de manter isto muito bem organizado, até para facilitar reposição, uso e controle para definir compras de produtos não perecíveis.  "/>
+        <pergunta date="20130703_110329" agente="PV" id="31" valor="10"  desc="Sua filha Maria costuma estudar ou praticar leitura no quarto? " resp="Estudar talvez pouco, mas fica direto no computador. Criam peças de arte e até teatro e ensaiam musicas. É um ambiente de encontro mesmo. "/>
+        <pergunta date="20130703_110429" agente="PV" id="36" valor="10"  desc="Tem necessidade especifica para algum objeto ou espaço no ambiente do quarto da filha Maria? " resp="Maria ainda guarda algumas bonecas e precisamos deixar um espaço para organizar isto. "/>
+        <pergunta date="20130703_110513" agente="PV" id="32" valor="10"  desc="Para que possamos customizar o projeto ao uso e forma de vida da sua filha, você poderia destacar no briefing técnico, quais os equipamentos que farão parte do ambiente do quarto da filha Maria. " resp="Aqui está, estes serão os equipamentos do quarto de Maria. "/>
+        <pergunta date="20130703_110559" agente="PV" id="15" valor="10"  desc="Além da lista de equipamentos do briefing técnico, quais os detalhes mais importantes para a área de serviço? " resp="Acho importante um espaço para pendurar camisas após serem passadas, para facilitar as camisas chegarem ao closet ainda passadas. "/>
+        <pergunta date="20130703_110631" agente="PV" id="16" valor="10"  desc="Para a cozinha de vocês algum detalhe a mais que eu não tenha lembrado? " resp="Temos muitas bandejas que utilizamos para produzir e servir, eles precisam ter um espaço que as mantenha organizadas e de fácil manuseio, acho complicado levantar uma montanha de bandejas para encontrar a procurada. "/>
+        <pergunta date="20130703_110705" agente="PV" id="21" valor="10"  desc="Gostaria que você assinalasse os equipamentos que farão parte estar/home de vocês." resp="Ok, aqui estão assinalados os equipamentos que vou instalar no meu home"/>
+        <pergunta date="20130703_110803" agente="PV" id="25" valor="10"  desc="Para melhor planejar e facilitar o uso do closet precisamos saber da sra. Roberta: quantidade de Sapatos, bolsas, joias e semijoias, blusas, calças, terninhos, vestidos básicos e longos. " resp="Tenho muitos pares de sapatos, mais ou menos 60 pares, umas 15 bolsas, muitos terninhos. Para blusas, camisetas  e calças   jeans, umas 03 prateleiras resolvem. Vestidos tenho uns 10 básicos e 02 de festa, ainda tem os jalecos de trabalho que são muitos e preciso de cabides. Tenho algumas semi joias e joias apesar de usar pouco. "/>
+        <pergunta date="20130703_110836" agente="PV" id="26" valor="10"  desc="Do sr. Ronaldo: Quantidade de terno, calças jeans, camisas social, camisetas, sapatos e cintos? " resp="Muitos ternos, uns 12. Camisas manga longa umas 25. Calças jeans e camisetas 08 peças cada.Gravatas tenho 50. Blusas e gola polo 10 peças cada, muitas meias e cuecas,  sapatos 05 pares."/>
+        <pergunta date="20130703_110909" agente="PV" id="27" valor="10"  desc="Algum objeto ou detalhe muito importante que vocês gostariam de registrar? " resp="Eu quero que tenha um espelho para corpo inteiro e um puff ou poltrona no closet. Também gostaria espaço para guardar peças intimas. O esposo quer um espaço visível para sua coleção de miniaturas de carros, oito peças raras. "/>
+      </perguntasDLG>
+    </tela>
+  </etapa>
+
+  <etapa id="9" desc="Desenvolvendo o projeto" peso="3" pontos="0" aux="0" note="" textoConceito="Verifique novamente os detalhes do briefing de estilos. Com ele você certamente terá mais acertividade na escolha do projeto.">
+    <tela time="0" date="20130703_111017" lk="" estilo="MINIGAME" id="0" pt="0" desc="GaleriaProjetos" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/10_DesenvolveProjeto/10_DesenvolveProjeto_" vdsufixo="PV" imgMask="" ajuda="Utilize seu senso de percepção, mas confirme tudo antes de seguir; Ligue para seu arquiteto para dirimir todas as dúvidas que existir; Siga o briefing elaborado junto ao cliente e de atenção aos mínimos detalhes; Saia do automático: defina o projeto pensando no cliente, seus gostos, necessidades e potencial de compra." ajudaSom="">
+      <projetos>
+        <selecao thumb="projetos/Moderno_15.jpg"/>
+        <selecao thumb="projetos/Natural_6.jpg"/>
+        <selecao thumb="projetos/Natural_7.jpg"/>
+        <selecao thumb="projetos/Vintage_1.jpg"/>
+        <selecao thumb="projetos/Vintage_8.jpg"/>
+      </projetos>
+    </tela>
+  </etapa>
+
+  <etapa id="10" desc="Agendando retorno do cliente" peso="0" pontos="0" aux="0" note="" textoConceito="">
+    <tela time="30" date="20130703_111207" lk="" estilo="VIDEO" id="0" pt="0" desc="" som="Sounds/XS-CarolOfTheBells.mp3" video="Videos/11_AgendaRetorno/11_AgendaRetorno_" vdsufixo="PV" imgMask="" ajuda="Esteja sempre disponível para se adequar a agenda do cliente." ajudaSom=""/>
+  </etapa>
+
+  <etapa id="11" desc="Preparando-se para apresentação" peso="3" pontos="1.5" aux="0" note="" textoConceito="Refaça esta etapa considerando que seis dos itens são fundamentais para este momento.">
+    <tela time="0" date="20130703_111237" lk="" estilo="MINIGAME" id="0" pt="0.5" desc="PreparaApresentacao" som="Sounds/FO-DarkMystery.mp3" video="Videos/12_PreparacaoApresentacao/12_PreparacaoApresentacao_" vdsufixo="PV" imgMask="" ajuda="A conveniência deve ser apresentada conforme os gostos e hábitos do cliente seja na bebida, comida, musica, aroma ou flores na sala etc.;  Você já reviu todos os detalhes do projeto que  tem importância para o cliente, que você anotou no Sismodular. Não esqueça de fazer a abordagem lincando sempre um fato pessoal que  marcou o primeiro encontro ou últimos contatos. Lembre-se de contatar o arquiteto para levantar todas as informações pendentes e mais aquelas que  ele pode nos fornecer  sobre: Tendência do cliente em onde fechar;  o que mais ele esta levando em consideração; quem da família esta mais propenso a fechar conosco; e se ele esboçou algo diferente sobre nossa loja, produto ou marca." ajudaSom="">
+      <preparacao>
+        <selecao texto="Reunir arquivos e documentos do projeto"/>
+        <selecao texto="Revisar briefing"/>
+        <selecao texto="Elaborar uma proposta financeira junto com a gerência"/>
+        <selecao texto="Preparar sala de apresentações"/>
+        <selecao texto="Informar à recepcionista a chegada do cliente e os dados do cliente"/>
+        <selecao texto="Atualizar cadastro do cliente "/>
+        <selecao texto="Atualizar agenda no SysModular "/>
+      </preparacao>
+    </tela>
+  </etapa>
+
+
+  Nas perguntas Abaixo, resposta do profissional onde ordem="X" 
+
+  <etapa id="12" desc="Apresentando o projeto" peso="5" pontos="3.4722222222222223" aux="0" note="" textoConceito="Refaça esta etapa considerando as seguintes orientações: selecione cuidadosamente as perguntas que tem relação direta com as características específicas desta família; flexibilidade é uma característica fundamental de um vendedor que tenha claro que a casa é do cliente e isto lhe dá o direito de rejeitar a ideia apresentada no projeto; a forma como cada ambiente da casa é utilizada pela família é fundamental para a assertividade do projeto; não esqueça de objetos que tenham valor sentimental para o cliente (especialmente se ele paga a conta); lembre-se que os conhecimentos técnicos são fundamentais para uma boa apresentação e para justificativa das opções apresentadas.">
+    
+    <tela time="26" date="20130703_111613" lk="" estilo="QUIZ_C_PERGUNTA" id="9" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_CasalFilha.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Vamos ver primeiro o meu, depois eu posso ir a outro lugar?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Continua apresentação do fluxo normal e acalma a filha dizendo que logo chegará na apresentação do seu ambiente"/>
+        <opcao lk="" nivel="1" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Convida a filha para sala de entretenimento (vídeo, jogos e conveniências) "/>
+        <opcao lk="" nivel="2" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Ajusta o fluxo de apresentação  à vontade do cliente"/>
+      </pergunta>
+    </tela>
+    
+    <tela time="14" date="20130703_111639" lk="" estilo="QUIZ" id="10" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Por onde você vai iniciar esta apresentação?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Pelas paredes em vistas separadas"/>
+        <opcao lk="" nivel="1" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Pela vista superior do leiaute do ambiente"/>
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Pela vista da planta baixa sem mobiliário"/>
+      </pergunta>
+    </tela>
+
+     <tela time="0" date="20130703_111723" lk="" estilo="VIDEO_C_AFIRMA" id="12" pt="0" desc="Não gostei da cor" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_CasalFilha.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="171" date="20130703_111723" lk="S" estilo="QUIZ" id="13" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Nesta situação você responde: " okClk="1" maxOrd="1">
+        <opcao lk="B" nivel="1" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Vou apresentar as infinitas possibilidades da Bontempo "/>
+        <opcao lk="=" nivel="0" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Foi a cor que eu identifiquei no briefing"/>
+        <opcao lk="=" nivel="2" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Fiz a escolha pela definição do (arquiteto, designer ou decorador)"/>
+      </pergunta>
+    </tela>
+
+   <tela time="42" date="20130703_112033" lk="S" estilo="QUIZ" id="16" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="De que forma que você faria a apresentação do armário de Maria? " okClk="1" maxOrd="1">
+        <opcao lk="A" nivel="0" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Inicia apresentando os detalhes técnicos como: acabamentos, sistema de fixação, medidas e funcionamento "/>
+        <opcao lk="B" nivel="1" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Inicia apresentando as funções de cada espaço do armário fazendo ela imaginar a utilização "/>
+        <opcao lk="C" nivel="2" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Inicia apresentando a durabilidade, garantia e matéria prima da composição"/>
+      </pergunta>
+    </tela>
+    
+    <tela time="0" date="20130703_112200" lk="" estilo="QUIZ" id="22" pt="0" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Nesta situação sua conduta seria?" okClk="0" maxOrd="0">
+        <opcao lk="" nivel="0" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresenta somente na imagem do projeto"/>
+        <opcao lk="" nivel="1" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresenta na imagem do projeto e informa as medidas de cada espaço"/>
+        <opcao lk="" nivel="2" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresenta na imagem e convida a cliente para verificar no showroom"/>
+      </pergunta>
+    </tela>
+    <tela time="13" date="20130703_112200" lk="" estilo="QUIZ_C_PERGUNTA" id="23" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_CasalFilha.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Gostei muito, mas  onde vou colocar minhas bonecas?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Criamos estes nichos em aberto para que elas sejam parte da decoração"/>
+        <opcao lk="" nivel="1" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Não previmos nada especifico. Você pensou em algo?"/>
+        <opcao lk="" nivel="2" valor="3" prioridade="3" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Previmos uma prateleira interna nesta porta do armário"/>
+      </pergunta>
+    </tela>
+    <tela time="17" date="20130703_112213" lk="" estilo="QUIZ_C_PERGUNTA" id="24" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_CasalFilha.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Adorei a ideia do nicho! Tem como colocar uma porta de vidro, para evitar que elas fiquem empoeiradas?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="1" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="É um detalhe especial e vai custar um pouco a mais, mas vai fica muito bom"/>
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Com esta ideia temos que alterar o projeto e consequentemente o custo"/>
+        <opcao lk="" nivel="0" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Temos como colocar a porta e vai ficar muito lindo também. Ótima ideia a sua Maria!"/>
+      </pergunta>
+    </tela>
+    <tela time="27" date="20130703_112230" lk="" estilo="QUIZ_C_PERGUNTA" id="25" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_CasalFilha.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Ainda tenho meu som, violão e um monte de coisas.  Como vou organizar tudo isso?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Tem muito espaço sobrando e você vai arrumar lugar para todas as suas coisas"/>
+        <opcao lk="" nivel="0" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="O som também vai ficar sobre a bancada e o violão neste espaço de fácil acesso  no armário "/>
+        <opcao lk="" nivel="1" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Olha, fique tranquila que tudo vai se encaixar neste projeto, há muito espaço ainda sobrando"/>
+      </pergunta>
+    </tela>
+    <tela time="33" date="20130703_112257" lk="" estilo="QUIZ_C_PERGUNTA" id="26" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_CasalFilha.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="E qual o espaço livre que eu vou ter no quarto? " okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Como você recebe muitas amigas e utiliza o quarto até para ensaiar teatro, há grande espaço de circulação. Imagina você e sua turma curtindo este espaço!"/>
+        <opcao lk="" nivel="1" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Deixamos um amplo espaço de circulação e com os detalhes de organização dos objetos. Ficou bem confortável para você e suas amigas"/>
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Como você recebe muitas amigas e utiliza o quarto até para ensaiar teatro, deixamos uma área livre de 2,40 metros"/>
+      </pergunta>
+    </tela>
+    
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Mas em que valor vai ficar este quarto?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Informar o valor (R$ 19.000,00) e já fornecer descontos e condições"/>
+        <opcao lk="" nivel="0" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Informar o valor (R$ 19.000,00) ressaltando que é valor de tabela e que ainda existe negociação"/>
+        <opcao lk="" nivel="1" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Não informar o valor e pedir para deixar todos os valores para o final"/>
+      </pergunta>
+    </tela>
+   
+    <tela time="0" date="20130703_112552" lk="" estilo="VIDEO_C_AFIRMA" id="34" pt="0" desc="Gostei, mas não vi onde vamos colocar as vassouras." som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal02.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="26" date="20130703_112601" lk="" estilo="QUIZ" id="35" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Nesta situação você:" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Aponta no projeto onde vai ficar alocada a vassoura"/>
+        <opcao lk="" nivel="1" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Desloca-se até o showroom para mostrar o suporte"/>
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Afirma que no final da apresentação mostrará"/>
+      </pergunta>
+    </tela>
+   
+    <tela time="0" date="20130703_112719" lk="" estilo="VIDEO_C_AFIRMA" id="39" pt="0" desc="Eu gostei, vamos ver os demais detalhes do projeto?" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal02.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="0" date="20130703_112725" lk="" estilo="QUIZ" id="40" pt="0" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Neste momento como você iniciará a apresentação?" okClk="0" maxOrd="0">
+        <opcao lk="" nivel="1" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresentando a área molhada e na sequencia armários e balcões (com detalhes de organização de utensílios seguindo briefing) "/>
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresentando a área molhada e na sequencia balcões e armários (com detalhes de organização de utensílios)"/>
+        <opcao lk="" nivel="0" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresentando a área molhada e na sequencia balcões e armários (com detalhes de organização de utensílios seguindo briefing) "/>
+      </pergunta>
+    </tela>
+   
+    <tela time="0" date="20130703_113030" lk="" estilo="VIDEO_C_AFIRMA" id="49" pt="0" desc="Adorei a parte dos copos. Está como havia pensado, mas gostaria de ver na prática como é esta abertura eletrônica dos armários  com portas inteiras na horizontal." som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal02.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="0" date="20130703_113042" lk="" estilo="QUIZ" id="50" pt="0" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Neste momento como você agiria:" okClk="0" maxOrd="0">
+        <opcao lk="" nivel="0" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Conduz a cliente ao showroom e apresenta tecnicamente o funcionamento do sistema Aventos"/>
+        <opcao lk="" nivel="1" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Convida o cliente para conhecer o sistema Aventos instalado no espaço gourmet do showroom."/>
+        <opcao lk="" nivel="2" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Conduz o cliente ao espaço goumert da loja e faz o cliente manusear o sistema, para comprovar o funcionamento."/>
+      </pergunta>
+    </tela>
+
+    <tela time="0" date="20130703_113435" lk="" estilo="VIDEO_C_AFIRMA" id="61" pt="0" desc="Eletrônicos podem dar problemas no funcionamento ou posso querer trocar um dos aparelhos. Vou precisar desmontar o painel para localizar a fiação e conexão de cabos?" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal03.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="0" date="20130703_113445" lk="" estilo="QUIZ" id="62" pt="0" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Como você responderia esta dúvida?" okClk="0" maxOrd="0">
+        <opcao lk="" nivel="0" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Nossos técnicos são treinados  para resolver estes tipos de problemas e vão dar uma solução adequada, sobre a fiação e parte elétrica."/>
+        <opcao lk="" nivel="1" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Todos os cabos e a fiação vão ficar dentro desta caixa condutora, que fica entre as gavetas e os painéis, mas a instalação deverá ser realizada por um eletricista."/>
+        <opcao lk="" nivel="2" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Demonstra na prática em ambiente do showroom, como ficará a disposição , funcionalidade e praticidade  dos cabeamentos  e conexões de plugues."/>
+      </pergunta>
+    </tela>
+   
+    <tela time="0" date="20130703_113640" lk="" estilo="VIDEO_C_AFIRMA" id="70" pt="0" desc="Mas só estamos adicionando e ai os custos vão aumentando..." som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal01.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="32" date="20130703_113648" lk="" estilo="QUIZ" id="71" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Como agir diante esta afirmação do cliente?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Concordo! Mas os benefícios, satisfação e bem estar da família estão em primeiro lugar"/>
+        <opcao lk="" nivel="1" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Não se preocupe, até o momento são pequenas alterações que não aumentam o valor."/>
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Vamos ver ao final se há alguma aumento com estas modificações"/>
+      </pergunta>
+    </tela>
+   
+    <tela time="0" date="20130703_113930" lk="" estilo="VIDEO_C_AFIRMA" id="83" pt="0" desc="Posso garantir uma coisa: o uísque é do bom e o pistache é meu petisco preferido, acertou  mais uma." som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/Conveniencias/ClienteConveniencia.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="48" date="20130703_113930" lk="" estilo="QUIZ" id="84" pt="0" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Antes de apresentar a ideia do closet para esposa, você?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Iniciaria a apresentação da distribuição dos espaços, destacando cada detalhe"/>
+        <opcao lk="" nivel="1" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresentaria a ela como ficaram definidos os espaços destinados ao esposo"/>
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="No final da apresentação, daria um panorama geral mostrando como ficou o closet deles"/>
+      </pergunta>
+    </tela>
+   
+    <tela time="28" date="20130703_114133" lk="" estilo="QUIZ" id="92" pt="1" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Apesar de ter adorado a ideia do ambiente onde vão estar os sapatos, a dúvida está em capacidade e espaço. Como você agiria após este questionamento?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Retornaria os slides de apresentação e destacaria tecnicamente o espaço nas prateleiras"/>
+        <opcao lk="" nivel="1" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Lembraria a cliente de que ela concordou com tudo e achou tudo lindo"/>
+        <opcao lk="" nivel="2" valor="10" prioridade="1" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Destacaria a medida de cada prateleira e mostraria na prática quantos pares cabem em cada uma delas"/>
+      </pergunta>
+    </tela>
+   
+    <tela time="30" date="20130703_114413" lk="" estilo="QUIZ" id="101" pt="0.5" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Como você agiria após as afirmações positivas da cliente?" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="5" prioridade="2" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Convidaria a cliente para se juntar ao esposo, oferecendo a ela seu suco preferido"/>
+        <opcao lk="" nivel="1" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Finalizaria a apresentação e conduziria ao processo de negociação"/>
+        <opcao lk="" nivel="2" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Convidaria a cliente a rever todos os ambientes, como se estivessem visitando o closet"/>
+      </pergunta>
+    </tela>
+   
+   <etapa id="13" desc="Apresentando o orçamento" peso="5" pontos="1.5" aux="0" note="" textoConceito="Lembre-se que se você fez um bom projeto e confia nos diferenciais da marca pode apresentar com segurança a proposta orçamentária, justificá-la e solicitar ajuda do Gerente sempre que precisar.">
+   
+    <tela time="0" date="20130703_114528" lk="" estilo="VIDEO_C_AFIRMA" id="4" pt="0" desc="Nossa enquanto eu tomava meu uísque a coisa foi andando!!!" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal03.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="29" date="20130703_114535" lk="" estilo="QUIZ" id="5" pt="0" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Com a observação da cliente você:" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Informa o casal que vai fazer as alterações no projeto para acrescentar as peças solicitadas."/>
+        <opcao lk="" nivel="1" valor="0" prioridade="0" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Solicita ao casal para ficar a vontade, enquanto observam as imagens do projeto sofrendo alterações."/>
+        <opcao lk="" nivel="2" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Tranquiliza o casal, confirmado que tudo esta registrado e que não haverá esquecimentos"/>
+      </pergunta>
+    </tela>
+   
+    <tela time="0" date="20130703_114604" lk="" estilo="VIDEO_C_AFIRMA" id="6" pt="0" desc="Depois de ver tantos slides e imagens, você pode me apresentar qual o custo disso tudo?" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal01.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="30" date="20130703_114612" lk="" estilo="QUIZ" id="7" pt="0.5" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Como você responde esta pergunta do cliente:" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="5" prioridade="2" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresenta mais um slides com o valor total dos ambientes (R$ 224.000,00) e destaca diferenciais do produto e marca."/>
+        <opcao lk="" nivel="1" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Fala o valor total dos projetos (R$ 224.000,00) e apresenta condições de desconto e pagamentos."/>
+        <opcao lk="" nivel="2" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Ressalta que todo o apto ficou do jeito que eles gostaram, que Maria adorou o quarto e tudo isso vale R$ 224.000,00."/>
+      </pergunta>
+    </tela>
+   
+    <tela time="0" date="20130703_114703" lk="" estilo="VIDEO_C_AFIRMA" id="10" pt="0" desc="Mas este preço que você me passou, qual é a condição de pagamento?" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal01.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="23" date="20130703_114713" lk="" estilo="QUIZ" id="11" pt="0" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Neste momento você:" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="5" prioridade="2" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresenta a condição de 6X e fala que podemos fazer em ate 24X"/>
+        <opcao lk="" nivel="1" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresenta a condição de 6X e pergunta se está bom para ele desta forma"/>
+        <opcao lk="" nivel="2" valor="0" prioridade="0" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Apresenta a condição de 6X e oferece o desconto inicial"/>
+      </pergunta>
+    </tela>
+   
+    <tela time="0" date="20130703_114736" lk="" estilo="VIDEO_C_AFIRMA" id="12" pt="0" desc="E a vista qual o valor que você pode fazer?" som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal03.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="14" date="20130703_114743" lk="" estilo="QUIZ" id="13" pt="0.5" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Como você agiria para responder a pergunta:" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Concede todos os descontos que você está autorizado e chega ao valor mínimo possível"/>
+        <opcao lk="" nivel="1" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Concede os descontos financeiros referentes a 6 x para a vista  e tenta o fechamento"/>
+        <opcao lk="" nivel="2" valor="5" prioridade="2" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Concede uma parte do desconto e espera a reação do cliente"/>
+      </pergunta>
+    </tela>
+    
+    <tela time="0" date="20130703_114905" lk="" estilo="VIDEO_C_AFIRMA" id="18" pt="0" desc="Tudo isso soma para mim, tem muita importância na segurança da decisão, mas você tem que me conseguir alguma vantagem alem do uísque e do pistache, que estavam ótimos." som="Sounds/JZ-SidewaysSamba.mp3" video="Videos/ClienteClose/Cliente_Close_Casal01.flv" vdsufixo="" imgMask="" ajuda="" ajudaSom=""/>
+    <tela time="33" date="20130703_114914" lk="" estilo="QUIZ" id="19" pt="0.5" desc="" som="Sounds/JZ-SidewaysSamba.mp3" video="" vdsufixo="" imgMask="" ajuda="" ajudaSom="">
+      <pergunta nivel="0" id="0" multi="1" ordenado="0" BT="0" BE="0" SisMod="0" desc="Neste momento você:" okClk="1" maxOrd="1">
+        <opcao lk="" nivel="0" valor="0" prioridade="0" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Oferece mais descontos e chama o franqueado para negociar"/>
+        <opcao lk="" nivel="1" valor="10" prioridade="1" ordem="" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Busca ofertar vantagem adicional ao cliente, em algo que ele considere especial e chama o fechamento"/>
+        <opcao lk="" nivel="2" valor="5" prioridade="2" ordem="X" BT="0" BE="0" SisMod="0" BT_mk="0" BE_mk="0" SisMod_mk="0" texto="Fala de todos os benefícios do produto, serviços, garantia e segurança da marca, para defender o preço e chama o fechamento"/>
+      </pergunta>
+    </tela>
+   </etapa>
+  
+  <etapa id="14" desc="Finalizando o atendimento" peso="2" pontos="0.6666666666666666" aux="4" note="" textoConceito="O fechamento da venda é momento de celebração: mantenha seu foco nisto!">
+    <tela time="56" date="20130703_115029" lk="" estilo="QUIZ" id="0" pt="0.3333333333333333" desc="" som="Sounds/RP-TheChance.mp3" video="Videos/15_Finalizacao/15_Finalizacao_" vdsufixo="FIM" imgMask="" ajuda="Negócio fechado tem contrato assinado e valores recebidos." ajudaSom="">
+      <pergunta nivel="0" id="0" multi="2" ordenado="0" BT="0" BE="0" SisMod="0" desc="Selecione os itens e/ou tarefas que você realiza logo após o fechamento da venda." okClk="1" maxOrd="3">
+        <opcao lk="" nivel="0" valor="10" prioridade="2" ordem="X" texto="Comemorar fechamento com o cliente e gerente"/>
+        <opcao lk="" nivel="1" valor="10" prioridade="1" ordem="X" texto="Conferir documentos do fechamento incluindo os valores"/>
+        <opcao lk="" nivel="4" valor="-10" prioridade="1" ordem="X" texto="Realizar revisão do projeto na presença do cliente"/>
+      </pergunta>
+    </tela>
+  </etapa>
+
+  <etapa id="15" desc="Verificando cronograma de montagem" peso="1" pontos="0.7777777777777778" aux="4" note="" textoConceito="Refaça esta etapa considerando os conhecimentos do fluxo de processo de sua Franquia e seus conhecimentos técnicos.">
+    <tela time="63" date="20130703_115125" lk="" estilo="QUIZ" id="1" pt="0.7777777777777778" desc=": Chamanda de um encerramento de montagem" som="Sounds/FO-Assasins.mp3" video="Videos/ChamadoMontagem/ChamadoMontagem_" vdsufixo="PV" imgMask="" ajuda="O próximo setor vai ajudar você na gestão do seu cliente, siga os passos combinados." ajudaSom="">
+      <pergunta nivel="1" id="0" multi="-6" ordenado="1" BT="0" BE="0" SisMod="0" desc="Está encerrando a montagem em um de seus clientes. Indique, a seguir, a ordem dos procedimentos que você realiza. " okClk="1" maxOrd="6">
+        <opcao lk=""  valor="10" prioridade="2" ordem="2" texto="Confirmar com área técnica o recebimento do checklist final de montagem"/>
+        <opcao lk=""  valor="10" prioridade="4" ordem="3" texto="Agendar com arquiteto disponibilidade para visita a obra"/>
+        <opcao lk=""  valor="10" prioridade="3" ordem="4" texto="Agendar com cliente a visita para entrega dos ambientes"/>
+        <opcao lk=""  valor="10" prioridade="6" ordem="5" texto="Enviar brinde pós-montagem ao cliente"/>
+        <opcao lk=""  valor="10" prioridade="5" ordem="6" texto="Solicitar ao cliente indicação para futuros clientes"/>
+        <opcao lk=""  valor="10" prioridade="1" ordem="1" texto="Ligar para supervisor ou técnico em montagem perguntando se tudo ocorreu de acordo"/>
+      </pergunta>
+    </tela>
+  </etapa>
+</etapas>

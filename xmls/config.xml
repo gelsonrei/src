@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<configs> 
+		<!--<host_xml>     http://www.urizen.com.br/bontempo/SimVendBT/  </host_xml>
+		<host_assets>   </host_assets>
+
+		<save_xml>    http://www.urizen.com.br/bontempo/SimVendBT/saving-xml.php   </save_xml>
+		<exists_temp>  http://www.urizen.com.br/bontempo/SimVendBT/exists.php   </exists_temp>
+		<load_base>    http://www.urizen.com.br/bontempo/SimVendBT/loading-xml.php   </load_base>
+		<load_temp>    http://www.urizen.com.br/bontempo/SimVendBT/loading-xml.php   </load_temp>  -->
+		
+		<host_xml>     http://game.bontempo.com.br/content/   </host_xml>
+		<host_assets>   </host_assets>
+		
+		<save_xml>     http://game.bontempo.com.br/content/   </save_xml>
+		<exists_temp>  http://game.bontempo.com.br/content/consulttemp/   </exists_temp>
+		<load_base>    http://game.bontempo.com.br/content/getbasecontent/   </load_base>
+		<load_temp>    http://game.bontempo.com.br/content/gettempcontent/   </load_temp>
+		
+		
+		<backup_save> http://www.urizen.com.br/bontempo/SimVendBT/  </backup_save>
+		
+		<debug> false </debug>
+	</configs> 
+	
+</data>

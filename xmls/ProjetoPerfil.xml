@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ProjetoPerfil>
+	<perfil id="0" desc="Casal Hetero">
+		<imagem id="" nome="" ambiente="COZINHA" estilo="E" url="projetos/Exuberante_3.jpg" /> 
+		<imagem id="" nome="" ambiente="COZINHA" estilo="E" url="projetos/Exuberante_5.jpg" />
+		<imagem id="" nome="" ambiente="HOME"    estilo="E" url="projetos/Exuberante_12.jpg" />
+	        <imagem id="" nome="" ambiente="COZINHA" estilo="M" url="projetos/Moderno_3.jpg" />
+	        <imagem id="" nome="" ambiente="QUARTO"  estilo="M" url="projetos/Moderno_18.jpg" />
+
+
+		<imagem id="" nome="" url="projetos/Exuberante_2.jpg" />
+		<imagem id="" nome="" url="projetos/Exuberante_4.jpg" />
+		<imagem id="" nome="" url="projetos/Exuberante_6.jpg" />
+	</perfil>
+
+</ProjetoPerfil>

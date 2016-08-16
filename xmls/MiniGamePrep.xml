@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<itens>
+	<opcao  et="" nivel="1" valor="10"  prioridade="1" BT="0" BE="0" SisMod="1" texto="Reunir arquivos e documentos do projeto"></opcao>
+	<opcao  et="" nivel="2" valor="10"  prioridade="1" BT="1" BE="1" SisMod="0" texto="Revisar briefing"></opcao>
+	<opcao  et="" nivel="3" valor="10"  prioridade="1" BT="0" BE="0" SisMod="1" texto="Elaborar uma proposta financeira junto com a gerência"></opcao>
+	<opcao  et="" nivel="4" valor="10"  prioridade="1" BT="0" BE="0" SisMod="0" texto="Preparar conveniências e reservar brindes"></opcao>
+	<opcao  et="" nivel="5" valor="10"  prioridade="1" BT="0" BE="0" SisMod="0" texto="Preparar sala de apresentações"></opcao>
+	<opcao  et="" nivel="6" valor="10"  prioridade="1" BT="0" BE="0" SisMod="0" texto="Informar à recepcionista a chegada do cliente e os dados do cliente"></opcao>
+	
+	<opcao  et="" nivel="0" valor="0"  prioridade="0" BT="0" BE="0" SisMod="0" texto="Enviar e-mail para cliente confirmando horário"></opcao>
+	<opcao  et="" nivel="0" valor="0"  prioridade="0" BT="0" BE="0" SisMod="0" texto="Enviar carta parabéns"></opcao>
+	<opcao  et="" nivel="0" valor="0"  prioridade="0" BT="0" BE="0" SisMod="0" texto="Atualizar cadastro do cliente "></opcao>
+	<opcao  et="" nivel="0" valor="0"  prioridade="0" BT="0" BE="0" SisMod="0" texto="Atualizar agenda no Sismodular "></opcao>
+	<opcao  et="" nivel="0" valor="0"  prioridade="0" BT="0" BE="0" SisMod="0" texto="Marcar cabelereiro "></opcao>
+	<opcao  et="" nivel="0" valor="0"  prioridade="0" BT="0" BE="0" SisMod="0" texto="Verificar atualizações do cliente nas redes socias "></opcao>
+	
+</itens>

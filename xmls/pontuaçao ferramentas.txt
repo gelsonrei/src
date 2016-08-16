@@ -1,0 +1,36 @@
+Pontos Ferramentas 
+Pasta do Cliente: 4 - Abordando Cliente etapa 0.5
+				  Antes da etapa 9 desenvolve projeto 0.5
+				  
+Campos obrigatorios na Abordando
+			0 - Nome 
+			4 - Email
+			5 - Fone Com.
+			8 - Dt aniver
+			17 - Cel
+			
+			
+			 
+Campos Obrigatoriso até etapa 9 (além dos anteriores)
+			6 - CPF 
+			20 - Especificador
+			24 - como chegou a loja
+
+Briefing Tecnico: 7 Realizando Briefing 0.5
+				  9 Desenvolvendo Porjeto 0.5
+				  
+Chama Gerente: 9 Desenvolvendo o projeto 0.25
+               11 Preparando-se para apresentação 0.5
+               13 Apresentando o orçamento 0.5
+			   
+Video Historia da Marca: 6 Atendendo o cliente 0.5 
+                         7 Realizando o briefing 0.5
+						 
+Conveniencia: 4 Abordando o cliente 0.5
+              13 Apresentando o orçamento 0.5
+			  
+Conceito final
+Até < 10 	Insuficiente
+Até < 18 	Regular
+Até < 26 	Bom
+>=26 		Excelente
